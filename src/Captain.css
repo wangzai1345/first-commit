@@ -1,0 +1,23 @@
+table{
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;/* 单元格合并 */
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+button{
+    margin-left: 5px;
+}
+th{
+    background-color: #ddd;
+}
+label{
+    margin-right: 5px;
+
+}
+input{
+    margin-right: 5px;
+}
