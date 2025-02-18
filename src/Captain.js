@@ -41,7 +41,7 @@ Mock.mock('/captain/team', 'post', (options) => {
         errCode: 0,
         errMsg: "string",
         data: {
-            id: Date.now().toString(), // 模拟队伍 ID 为字符串
+            id: Date.now().toString(), 
             comId: 0,
             name: teamName,
             captainId: 0,
