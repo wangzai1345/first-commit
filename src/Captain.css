@@ -1,7 +1,7 @@
-table{
+/* table{
     margin-top: 20px;
     width: 100%;
-    border-collapse: collapse;/* 单元格合并 */
+    border-collapse: collapse;
 }
 th,td{
     border: 1px solid black;
@@ -20,4 +20,4 @@ label{
 }
 input{
     margin-right: 5px;
-}
+} */
